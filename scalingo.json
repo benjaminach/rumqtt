@@ -1,3 +1,13 @@
 {
-  "name": "rumqttd"
+	"name": "rumqttd",
+	"formation": {
+		"web": {
+			"amount": 0,
+			"size": "S"
+		},
+		"worker": {
+			"amount": 1,
+			"size": "S"
+		}
+	}
 }
