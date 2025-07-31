@@ -1,2 +1,2 @@
 web: echo "Web process not used"
-mqtt: ./target/release/rumqttd
+tcp: ./target/release/rumqttd
