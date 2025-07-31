@@ -1,8 +1,3 @@
 {
-  "name": "rumqttd",
-  "buildpacks": [
-    {
-      "url": "https://github.com/sc-david-voisin/rust-buildpack"
-    }
-  ]
+  "name": "rumqttd"
 }
