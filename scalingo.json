@@ -2,7 +2,7 @@
   "name": "rumqttd",
   "buildpacks": [
     {
-      "url": "https://github.com/Scalingo/rust-buildpack"
+      "url": "https://github.com/sc-david-voisin/rust-buildpack"
     }
   ]
 }
