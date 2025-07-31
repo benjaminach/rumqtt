@@ -5,7 +5,7 @@
 			"amount": 0,
 			"size": "S"
 		},
-		"worker": {
+		"mqtt": {
 			"amount": 1,
 			"size": "S"
 		}
