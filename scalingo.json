@@ -1,0 +1,8 @@
+{
+  "name": "rumqttd",
+  "buildpacks": [
+    {
+      "url": "https://github.com/Scalingo/rust-buildpack"
+    }
+  ]
+}
