@@ -1,2 +1,1 @@
-web: tail -f /dev/null
-mqtt: ./target/release/rumqttd
+mqtt: /app/target/release/rumqttd
